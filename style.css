@@ -1,0 +1,19 @@
+html, body {
+    background-color: #ED4C67;
+}
+
+#predictions .food-photo, #predictions .nutrition {
+    background-color: #ecf0f1;
+}
+
+#predictions .nutrition {
+    background-color: #bdc3c7;
+}
+
+#predictions .step {
+    color: black;
+}
+
+#predictions .step span {
+    border-color: black;
+}
